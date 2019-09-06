@@ -31,15 +31,6 @@ collections:
       Single pages.
     delete: false
     preview_path: "{{title}}"
-    files:
-      - label: "About"
-        name: "about"
-        file: "content/about.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string", default: "About"}
-          - {label: "Text", name: "body", widget: "markdown"}
-          - {label: "Menu", name: "menu", widget: "string", default: "main"}
-          - {label: "Draft", name: "draft", widget: "boolean", default: true, required: true}
   - label: "Settings"
     name: "settings"
     description: >
