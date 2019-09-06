@@ -1,14 +1,16 @@
 ---
-title: "The butler"
-date: 2019-02-07T12:37:00.000Z
-image: /images/butler.jpg
+title: Altafino Software Solutions - restarted
+date: 2019-09-06T11:37:00.000Z
+image: ''
 tags:
-  - Cecil
-  - SSG
+  - Company
+  - News
 draft: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- excerpt -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Altafino - Means in esperanto "High-End". I choosed this name for my company to bring over my vision of delivering high-end [software solutions](https://www.altafino.com).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+What never really followed this vision, was company's own website (first under altafino.co.uk, now www.altafino.com). So finally I invested in working with an expert for doing clean and nice web-sites, [Alina Sava](https://sava.io) — digital designer, developer & product maker based in Berlin.
+
+She did completly new design, starting with a new logo, defined new simpler structure of content and navigation and implemented the full site.
+
+I'm very happy with the new page, which now is inline with the meaning of _altafino_ - _high end_.
