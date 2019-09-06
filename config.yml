@@ -1,6 +1,6 @@
 title: "Altafino Blog"
 baseline: "Software Solutions"
-description: "Altafino - High-End Software Solutions & Full-Stack Development Blog"
+description: "Software Solutions & Full-Stack Development"
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
