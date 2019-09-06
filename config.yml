@@ -1,6 +1,6 @@
-title: "Starter blog"
-baseline: "Your blog's butler."
-description: "Altafino - Software Solutions Blog"
+title: "Altafino Blog"
+baseline: "Software Solutions"
+description: "Altafino - High-End Software Solutions & Full-Stack Development Blog"
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
