@@ -22,6 +22,15 @@ virtualpages:
     title: "Content Manager (Netlify CMS)"
   _redirects:
     output: netlify_redirects
+collections:
+  - label: "Blog in English"
+    name: "english_posts"
+    folder: "_posts"
+    filter: {field: "language", value: "en"}
+    fields:
+      - {label: "Language", name: "language", widget: "select", options: ["en", "es"]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
 netlify:
   cms:
     path: "admin"
