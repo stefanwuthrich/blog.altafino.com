@@ -308,12 +308,6 @@ li {
   grid-column: span 2;
 }
 
-section:not(.hero),
-article {
-  margin-top: $gap*3;
-  margin-bottom: $gap*3;
-}
-
 .text-center {
   text-align: center;
 }
@@ -329,10 +323,6 @@ article {
   &.mid {
     background: $c-bg-mid;
   }
-}
-
-.spaced {
-  padding: $gap;
 }
 
 header {
