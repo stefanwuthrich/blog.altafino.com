@@ -22,15 +22,15 @@ virtualpages:
     title: "Content Manager (Netlify CMS)"
   _redirects:
     output: netlify_redirects
+# Collections
 collections:
-  - label: "Blog in English"
-    name: "english_posts"
-    folder: "_posts"
-    filter: {field: "language", value: "en"}
-    fields:
-      - {label: "Language", name: "language", widget: "select", options: ["en", "es"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Content", name: "body", widget: "markdown"}
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
 netlify:
   cms:
     path: "admin"
