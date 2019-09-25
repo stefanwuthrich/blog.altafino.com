@@ -3,7 +3,7 @@ baseline: "Software Solutions"
 description: "Software Solutions & Full-Stack Development"
 baseurl: "/"
 canonicalurl: true
-theme: "hyde"
+#theme: "altafino"
 date:
   format: "j F Y"
   timezone: "Europe/Paris"
