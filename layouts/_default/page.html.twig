@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.language }}">
   <head>
+  {% block head %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Altafino Full-Stack Engineer Blog">
     <meta name="author" content="Stefan Wüthrich">
-    <title>Altafino Blog</title>
+    <title>{% spaceless %}{% block title %}
+       {{ site.title }} &middot; {{ page.title }}
+       {% endblock title %}{% endspaceless %}
+    </title>
+    {% block head_css %}
     <link href="{{ url(minify(toCSS('scss/style.scss'))) }}" rel="stylesheet">
+    {% endblock head_css %}
+    {% endblock head %}
   </head>
   <body>
   <div id="Page" class="flex columns">
